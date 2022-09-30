@@ -3,7 +3,7 @@
 
 <p align="left"> 
   Me chamo lucas, atualmente estou no curso de sistemas de informação na instituição UNIFAFIBE.
-  Curioso e apaixonado por desenvolvimente web. 
+  <br / > Curioso e apaixonado por desenvolvimente web. 
 </p>
 
 <p align="left">
