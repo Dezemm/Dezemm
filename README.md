@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTTML | CSS | JavaScript</strong>
+  🦄 Linguagens: <strong>HTTML | CSS | JavaScript</strong> 
+</p>
+
+<p align="left">
+  🦄 Framework: <strong>ReactJS</strong> 
 </p>
 
 <p align="left">
